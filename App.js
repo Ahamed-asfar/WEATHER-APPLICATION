@@ -14,7 +14,8 @@ function App() {
       return;
     }
 
-    const apiKey = '9e263327ff42503c141721364ebde5b6'; 
+    const apiKey = process.env.REACT_APP_WEATHER_API_KEY;
+ 
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
     try {
