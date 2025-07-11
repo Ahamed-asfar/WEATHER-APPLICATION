@@ -85,3 +85,11 @@ Use async/await with fetch()
 
 🏁 Conclusion:
 This Weather App is a complete, polished, and practical React project built from scratch without templates. It reflects my ability to design real-time web applications, work with RESTful APIs, and build modern user interfaces. The project stands as a strong example of my MERN internship training and demonstrates full command over frontend development and asynchronous operations in a React-based environment.
+
+#OUTPUT:
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1090d911-d696-4b91-ab19-5a537754e201" />
+<img width="1919" height="1078" alt="Image" src="https://github.com/user-attachments/assets/4a2cba43-f8e1-40c0-99bd-c424a8c061f2" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/cd03e33f-7ee9-4c57-a7b1-6fc51f2b4519" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e49ed0dd-cdc9-498b-b528-cfdde9c5975c" />
+<img width="1918" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f4957c39-2459-47e9-8f04-650083106431" />
