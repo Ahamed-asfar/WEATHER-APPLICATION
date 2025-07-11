@@ -1,0 +1,75 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom right, #1e3c72, #2a5298);
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.08);
+  padding: 30px;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  width: 90%;
+  max-width: 400px;
+}
+
+h1 {
+  font-size: 26px;
+  margin-bottom: 20px;
+  color: #00faff;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+input[type='text'] {
+  padding: 10px;
+  width: 70%;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #00faff;
+  color: #000;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00d4c7;
+}
+
+.weather-box {
+  margin-top: 20px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+footer {
+  margin-top: 30px;
+  font-size: 14px;
+  color: #ddd;
+}
+
+.error {
+  color: #ff6961;
+  font-weight: bold;
+  margin-top: 10px;
+}
