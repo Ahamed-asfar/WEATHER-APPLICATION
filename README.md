@@ -28,6 +28,12 @@ VS Code – Code editor
 
 Node.js & NPM – Project environment and dependency manager
 
+⚠️ *Note*: API key is not included for security reasons.
+To run this project locally, create a `.env` file in the root directory and add:
+
+REACT_APP_WEATHER_API_KEY=your_actual_key_here
+
+
 📜 Project Overview:
 This project is a real-time Weather Web Application built entirely using React.js and integrates with the OpenWeatherMap API to fetch and display accurate, up-to-date weather information for any city entered by the user. The application allows users to type in a city name, and upon clicking “Get Weather,” the app fetches weather data from the API and displays it in a styled, mobile-friendly interface.
 
